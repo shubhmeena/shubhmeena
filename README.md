@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @shubhmeena
-- 👀 I’m interested in technologies around
-- 🌱 I’m currently learning java programming
-- 💞️ I’m looking to collaborate on java knowledge
+- 👋 Hi, I’m @shubhmmeena
+- 👀 I’m interested in technologies and AI
+- 🌱 I’m currently learning Java programming
+- 💞️ I’m looking to collaborate on Java knowledge
 - 📫 How to reach me shubhammeena8358@gmail.com
 
 <!---
